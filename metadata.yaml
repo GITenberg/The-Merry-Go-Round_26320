@@ -1,0 +1,46 @@
+_repo: The-Merry-Go-Round_26320
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Van Vechten, Carl
+    aliases:
+    - Vechten, Carl Van
+    - Vetchen, Carl Van
+    birthdate: 1880
+    deathdate: 1964
+    gutenberg_agent_id: '31911'
+    url: http://www.gutenberg.org/2009/agents/31911
+    wikipedia: http://en.wikipedia.org/wiki/Carl_Van_Vechten
+description: In defence of bad taste.- Music and supermusic.- Edgar Saltus.- The new
+  art of the singer.- Au bal musette.- Music and cooking.- An interrupted conversation.-
+  The authoritative work on American music.- Old days and new.- Two young American
+  playwrights [Avery Hopwood and Philip Moeller]- De senectute cantorum.- Impressions
+  in the theater; The land of joy, A note on Mimi Aguglia, The new Isadora, Margaret
+  Anglin produces As you like it.- The modern composers at a glance.
+gutenberg_issued: '2008-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26320'
+  lccn: '18020887'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Music'
+- !lcsh 'Essays'
+- !lcc 'PN'
+- !lcc 'ML'
+- !lcsh 'Theater'
+tableOfContents: 'In defence of bad taste -- Music and supermusic -- Edgar Saltus
+  -- The new art of the singer -- Au bal musette -- Music and cooking -- An interrupted
+  conversation -- The authoritative work on American music -- Old days and new --
+  Two young American playwrights [Avery Hopwood and Philip Moeller] -- De senectute
+  cantorum -- Impressions in the theater: The land of joy, A note on Mimi Aguglia,
+  The new Isadora, Margaret Anglin produces As you like it -- The modern composers
+  at a glance.'
+title: The Merry-Go-Round
+url: http://www.gutenberg.org/ebooks/26320
